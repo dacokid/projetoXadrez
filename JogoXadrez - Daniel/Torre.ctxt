@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Torre
+comment1.params=casa\ cor
+comment1.target=Torre(Casa,\ char)
+comment2.params=tabuleiro\ destino
+comment2.target=boolean\ haPecas(Tabuleiro,\ Casa)
+comment3.params=destino
+comment3.target=boolean\ captura(Casa)
+comment4.params=destino
+comment4.target=boolean\ podeMover(Casa)
+numComments=5
